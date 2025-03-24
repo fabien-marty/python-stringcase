@@ -1,6 +1,8 @@
 stringcase
 ==========
 
+**THIS IS A FORK OF THE EXACT 1.2.0 VERSION (WITH INSTALLATION ISSUE WITH RECENT SETUPTOOLS FIXED)**
+
 Convert string cases between camel case, pascal case, snake case etc...
 
 |build_status_badge| |coverage_badge| |pypi_version_badge|
